@@ -1,0 +1,6 @@
+{
+    "tasks": {
+        "dev": "deno run --watch --allow-all --config tsconfig.json main.ts",
+        "start": "deno run --allow-net --allow-env --config tsconfig.json main.ts"
+    }
+}

@@ -1,0 +1,11 @@
+# in case you fucked up ...
+node_modules
+package.json
+yarn-lock.json
+package-lock.json
+
+# env
+.env
+
+# deno
+deno.lock
